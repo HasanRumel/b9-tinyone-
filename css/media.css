@@ -1,0 +1,164 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+	font-size: 18px;
+}
+/*header end*/
+/*slider start*/
+.s-content h1{
+	font-size: 22px;
+
+}
+.s-content p{
+	margin-bottom: 10px;
+}
+.s-icon li{
+	margin-right: 20px !important;
+}
+/*slider end*/
+/*service start*/
+.service{
+	margin: 50px 0 30px;
+}
+.title{
+	margin-bottom: 20px;
+}
+.t-p{
+	font-size: 16px;
+}
+.single{
+	margin-bottom: 20px;
+}
+.srv-text{
+	margin-top: 5px;
+	text-align: center;
+}
+/*service end*/
+/*contact start*/
+.t-h1{
+	font-size: 25px;
+}
+.f-c input{
+	height: 40px;
+}
+.contact{
+	padding: 50px 0 70px;
+}
+.btn-submit{
+	margin-top: 10px;
+	margin-left: 0;
+	width: 100%;
+	height: 40px;
+}
+.social-link ul{
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+.social-link ul li{
+	margin-right: 10px!important;
+}
+.footer{
+	text-align: center;
+}
+/*contact end*/
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/*header end*/
+/*slider start*/
+.s-content{
+	margin-top: 10px;
+}
+.slider{
+	padding-bottom: 50px;
+}
+.c-ci{
+    bottom: -45px;
+}
+/*slider end*/
+/*service start*/
+.service{
+	margin: 70px 0 50px;
+}
+.title{
+	margin-bottom: 30px;
+}
+.t-p{
+	font-size: 18px;
+}
+.single{
+	margin-bottom: 25px;
+}
+.srv-text{
+	margin-top: 5px;
+	text-align: center;
+}
+/*service end*/
+/*contact start*/
+.f-c input{
+	height: 40px;
+}
+.btn-submit{
+	width: 110px;
+	height: 40px;
+}
+.social-link ul{
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+.social-link ul li{
+	margin-right: 15px!important;
+}
+.footer{
+	margin-left: 40px;
+}
+/*contact end*/
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/*header end*/
+/*slider start*/
+.s-content{
+	margin-top: 33px;
+}
+.slider{
+	padding-bottom: 80px;
+}
+/*slider end*/
+/*contract start*/
+.contact{
+	padding: 50px 0 70px !important;
+}
+.social-link ul{
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+/*contract end*/
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+@media (min-width: 1200px) and (max-width: 1499.98px){
+
+}
+@media (min-width: 1500px) and (max-width: 1899.98px){
+
+}
+/* Extra large devices (large desktops, 1900px and up)*/
+@media (min-width: 1900px) {
+
+}

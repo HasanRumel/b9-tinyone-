@@ -1,0 +1,162 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+/*header start*/
+header{
+	background-color: #fcdb00;
+	padding: 15px 0;
+}
+.menu ul li a{
+	padding: 0 40px !important;
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+	transition: .5s;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	padding-bottom: 100px;
+	background-color: #fcdb00;
+}
+.s-content{
+	margin-top: 70px;
+}
+.s-content h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.s-content h2{
+	margin: 15px 50px 15px 0;
+	font-size: 20px;
+	font-weight: 400;
+	color: #313841;
+}
+.s-content p{
+	color: #555555;
+	word-spacing: 1px;
+	margin-bottom: 20px;
+}
+.s-icon{
+	font-size: 42px;
+	color: #010101;
+}
+.s-icon li{
+	margin-right: 30px !important;
+}
+.c-ci{
+    bottom: -80px;
+}
+.c-ci li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.c-ci .active{
+	background-color: red;
+}
+/*slider end*/
+/*service start */
+.service{
+		margin: 100px 0 80px;
+}
+.title{
+	margin-bottom: 70px;
+}
+.t-h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+	margin: 0 0 20px;
+}
+.t-p{
+	font-size: 20px;
+	color: #313841;
+	letter-spacing: 0.5px;
+	line-height: 25px;
+	margin: 0;
+}
+.single{
+	margin-bottom: 50px;
+}
+.srv-icon{
+	font-size: 50px;
+	color: #010101;
+}
+.srv-text{
+	margin-top: 10px;
+}
+.srv-text h2{
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101;
+}
+.srv-text p{
+	color: #898989;
+	margin-bottom: 0;
+}
+/*service end */
+/*contact start*/
+.contact{
+	padding: 100px 0 130px;
+	background-color: #010101;
+}
+.yellow{
+	color: #fcdb00;
+}
+.t-c{
+	color: #898989;
+}
+.t-b{
+	margin-bottom: 40px;
+}
+.f-c input{
+	width: 100%;
+	height: 50px;
+	font-family: 'PT Sans', sans-serif;
+	color: #898989;
+}
+.btn-submit{
+	width: 130px;
+	height: 50px;
+	background-color: #fcdb00;
+	color: #010101;
+	font-weight: 700;
+	margin-left: 10px;
+	transition: .3s linear;
+	-webkit-transition: .3s linear;
+	--moz-transition: .3s linear;
+}
+.btn-submit:hover{
+	background-color: white;
+}
+.social-link ul{
+	margin-top: 70px;
+	margin-bottom: 130px;
+}
+.social-link ul li{
+	padding: 2px 10px;
+	margin-right: 30px!important;
+	background-color: #fcdb00;
+	border-radius: 10px;
+}
+.social-link ul li a{
+	font-size: 30px;
+	color: #010101;
+}
+.social-link ul li a:hover{
+	color: white !important;
+}
+.footer{
+	color: #ffffff;
+	line-height: 20px;
+}
+/*contact end*/
